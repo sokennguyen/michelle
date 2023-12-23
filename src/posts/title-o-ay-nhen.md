@@ -5,4 +5,4 @@ tags: []
 ---
 maybe if i close my eyes, the fantasies will surely die?
 
-![lawson](/src/img/06186682.jpeg)
+![lawson](/img/06186682.jpeg)

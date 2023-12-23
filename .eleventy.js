@@ -36,9 +36,14 @@ module.exports = function(eleventyConfig) {
     return array.slice(0, n);
   });
 
+  eleventyConfig.addCollection("allPosts", function(collectionApi) {
+    return [...collectionApi.getFilteredByGlob(['src/posts/*.md', 'src/soccer/*.md', 'src/fiction/*.md'])]
+  })
+  
   eleventyConfig.addCollection("tagList", function(collection) {
     let tagSet = new Set();
     collection.getAll().forEach(function(item) {
+      
       if( "tags" in item.data ) {
         let tags = item.data.tags;
 
@@ -57,14 +62,10 @@ module.exports = function(eleventyConfig) {
           return true;
         });
 
-        for (const tag of tags) {
-          tagSet.add(tag);
-        }
       }
     });
-
+    return [...tagSet]
     // returning an array in addCollection works in Eleventy 0.5.3
-    return [...tagSet];
   });
 
   eleventyConfig.addPassthroughCopy("src/img");

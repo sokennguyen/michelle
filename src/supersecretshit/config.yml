@@ -4,6 +4,22 @@ backend:
   branch: main
 media_folder: "/src/img"
 collections:
+  - name: "posts" 
+    label: "Posts"
+    folder: "/src/posts"
+    create: true 
+    slug: "{{slug}}" 
+    fields: 
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        default: ""
+        date_format: "YYYY-MM-DD" # e.g. 24.12.2021
+        time_format: false
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["posts"] }
+      - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "fiction" 
     label: "Fiction"
     folder: "/src/fiction"
@@ -17,7 +33,6 @@ collections:
         date_format: "YYYY-MM-DD" # e.g. 24.12.2021
         time_format: false
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list", default: ["fiction"] }
       - {label: "Body", name: "body", widget: "markdown"}
 
@@ -34,6 +49,5 @@ collections:
         date_format: "YYYY-MM-DD" # e.g. 24.12.2021
         time_format: false
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list", default: ["soccer"] }
       - {label: "Body", name: "body", widget: "markdown"}

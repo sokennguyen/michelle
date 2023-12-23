@@ -5,9 +5,9 @@ tags: []
 ---
 apparently i got 4 hours of sleep last night but today was good.
 
-+ the lecturer praised my presentation. 
-+ we held an illegal karaoke party in the school's theater.
-+ practice was nice today. did 7 3-pointers and my lay-ups have improved kakakakakaka
+* the lecturer praised my presentation. 
+* we held an illegal karaoke party in the school's theater.
+* practice was nice today. did 7 3-pointers and my lay-ups have improved kakakakakaka
 
 bologna is playing tonight. 3 games in a week, unusual for what they're used to but the ragazzi will do just fine. they're playing against inter in giuseppe meazza. they managed to have a 2-2 draw at the same place 2 months ago (like it was literally impossible to do so but they did). so yeah everybody move move moveee
 
@@ -22,4 +22,4 @@ for the next 5 months, we're gonna give our fullest.
 forza bolognaaaa 💖💙
 ê viết hay quá để dành cuối mùa up story recap nha 
 
-![z4992058454049_c81fbcb2d9c3ca3340aac6f64980b34b.jpg](https://mataroa.blog/images/a53e6b6d.jpeg)
+![z4992058454049_c81fbcb2d9c3ca3340aac6f64980b34b.jpg](/src/img/a53e6b6d.jpeg)

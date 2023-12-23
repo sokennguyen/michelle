@@ -22,4 +22,4 @@ for the next 5 months, we're gonna give our fullest.
 forza bolognaaaa 💖💙
 ê viết hay quá để dành cuối mùa up story recap nha 
 
-![z4992058454049_c81fbcb2d9c3ca3340aac6f64980b34b.jpg](/src/img/a53e6b6d.jpeg)
+![](/src/img/a53e6b6d.jpeg)

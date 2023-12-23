@@ -22,7 +22,7 @@ anyways phút 92 thì inter dẫn 1-0. khúc đó e sắp viết văn buồn an 
 
 112': 1-1 BOLOGNA BÂY ƠI BÂY SAM BEUKEMA CHỒNG YÊU đá 1 trái quá đẹp (cũng vừa vừa th nhma ăn mừng pose của him đẹp vkl) 
 
-![z5003417400812_ba9fb082fd3f2e9e3e6dc785476f170e.jpg](/src/img/955ddce1.jpeg)
+![z5003417400812_ba9fb082fd3f2e9e3e6dc785476f170e.jpg](/img/955ddce1.jpeg)
 
 116': NDOYEEEE 2-1 CHO BOLOGNAAAAA KHÚC ĐÓ E LA BỂ NHÀ BỂ CỬA HUHUHU CÁI J V ÉO TIN ĐƯỢC HFSKDJSFJSOF
 
@@ -32,4 +32,4 @@ hóa ra người khóc là e chứ ko phải ai hết =)))))
 
 chắc phải fan bologna mới có thể hiểu được trận vừa rồi nó ý nghĩa và điên rồ ra sao??? nhưng mà every second worth it <33 iu cái đội này quá nhìu, forza bologna pặc pặc skhfisfjsifsfp
 
-![406704859_740925164130752_3103515377060239171_n.jpg](/src/img/d95d4cb5.jpeg)
+![406704859_740925164130752_3103515377060239171_n.jpg](/img/d95d4cb5.jpeg)

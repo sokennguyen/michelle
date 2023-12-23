@@ -64,6 +64,8 @@ header a[href]:visited {
   color: var(--white);
 }
 header {
+  display: flex;
+  align-items: center;
   float:left;
 }
 header:after {
@@ -157,10 +159,14 @@ hr {
 
 /* Header */
 .home {
+  font-family: chancery,cursive,LiSu,sans-serif;
   padding: 0 1rem;
   float: left;
   margin: 1rem 0; /* 16px /16 */
   font-size: 1rem; /* 16px /16 */
+}
+.home a {
+  margin: 0 2rem;
 }
 .home :link:not(:hover) {
   text-decoration: none;

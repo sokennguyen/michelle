@@ -1,0 +1,6 @@
+{
+  "tags": [
+    "soccer"
+  ],
+  "layout": "layouts/post.njk"
+}

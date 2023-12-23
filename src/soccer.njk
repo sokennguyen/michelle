@@ -1,0 +1,13 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-base
+eleventyNavigation:
+    key: soccer
+    order: 3
+---
+
+
+{% set postslist = collections.soccer %}
+{% include "postslist.njk" %}
+
+

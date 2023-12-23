@@ -1,0 +1,6 @@
+{
+  "tags": [
+    "fiction"
+  ],
+  "layout": "layouts/post.njk"
+}

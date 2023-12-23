@@ -3,11 +3,10 @@ backend:
   name: git-gateway
   branch: main
 media_folder: "/src/img"
-public_folder: "/posts" 
 collections:
-  - name: "post" 
-    label: "Post"
-    folder: "/src/posts"
+  - name: "fiction" 
+    label: "Fiction"
+    folder: "/src/fiction"
     create: true 
     slug: "{{slug}}" 
     fields: 
@@ -19,5 +18,22 @@ collections:
         time_format: false
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
-      - {label: "Tags", name: "tags", widget: "list", default: ["post"] }
+      - {label: "Tags", name: "tags", widget: "list", default: ["fiction"] }
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "soccer" 
+    label: "Soccer"
+    folder: "/src/soccer"
+    create: true 
+    slug: "{{slug}}" 
+    fields: 
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        default: ""
+        date_format: "YYYY-MM-DD" # e.g. 24.12.2021
+        time_format: false
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["soccer"] }
       - {label: "Body", name: "body", widget: "markdown"}

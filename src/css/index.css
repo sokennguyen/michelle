@@ -34,7 +34,8 @@ p,
 .tmpl-sprint li,
 .tmpl-sprints li,
 img {
-  max-width: 37.5em; /* 600px /16 */
+  width: 100%;
+  max-width: 410px;
 }
 p,
 .tmpl-post li,

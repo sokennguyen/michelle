@@ -6,8 +6,6 @@ tags:
 ---
 sometimes i think letters are overrated. considering the fact that i used to write letters to a significant amount of people who turned out to be unworthy of my time.
 
-![]( "hehe")
-
 but this is for you. and you've always been worthy of my everything. and i know you're not anyone else but you. and i know that you're the one for me.
 
 also vice versa.

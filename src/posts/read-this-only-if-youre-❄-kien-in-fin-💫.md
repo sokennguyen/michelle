@@ -51,5 +51,3 @@ you're still the one i love from time to time.
 sóc
 
 ![](/img/hhehe.jpg)
-
-![](/img/nice.jpeg)

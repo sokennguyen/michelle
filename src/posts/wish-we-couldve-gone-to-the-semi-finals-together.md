@@ -36,4 +36,4 @@ uh chắc v đó, thôi cuối tuần đá tiếp. ko được khóc ko được
 
 forza bolognaaaaaa 💖💙
 
-![](file:///C:/Users/admin/AppData/Local/ZaloPC/1938689511601574077/ZaloDownloads/picture/1630323322866031610/z5059546322985_99ba14352e1c424a1136b991a6ae7c74.jpg)
+![](/img/huhu.jpg)

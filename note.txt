@@ -1,0 +1,5 @@
+make the site looks like a book
+
+landing page:
+	desktop: looks like a book (Title + Author Name on left | table of content on right)
+	mobile: table of contents + title + author name
